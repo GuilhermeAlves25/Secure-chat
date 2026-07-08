@@ -130,8 +130,8 @@ Projeto desenvolvido em dupla para a disciplina de Segurança da Informação �
 
 **Tela de login:**
 
-![Tela de login](screenshots/login.png)
+![Tela de login](screenshots/telaLogin.png)
 
 **Conversa entre dois usuários:**
 
-![Conversa entre usuários](screenshots/conversa.png)
+![Conversa entre usuários](screenshots/telaConversa.png)

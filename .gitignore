@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Variaveis de ambiente / segredos
+.env
+
+# Banco de dados local de usuarios (gerado em tempo de execucao)
+users.json
+
+# Chaves eventualmente exportadas para arquivo (nao devem ir para o repo)
+*.pem
+*.key
+
+# SO / IDE
+.DS_Store
+.vscode/
+.idea/

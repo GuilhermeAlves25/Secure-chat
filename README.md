@@ -125,3 +125,13 @@ Para demonstrar que o tráfego está de fato cifrado:
 ## Autores
 
 Projeto desenvolvido em dupla para a disciplina de Segurança da Informação — IFPI.
+
+## Screenshots
+
+**Tela de login:**
+
+![Tela de login](screenshots/login.png)
+
+**Conversa entre dois usuários:**
+
+![Conversa entre usuários](screenshots/conversa.png)

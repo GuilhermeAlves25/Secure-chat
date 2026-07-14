@@ -4,6 +4,13 @@ Projeto final da disciplina **Segurança da Informação** (Capítulo 3 — Crip
 Aplicativo de mensagens em rede que demonstra, na prática, criptografia híbrida
 (RSA + AES), autenticação com hash de senhas e comunicação via sockets TCP em Python.
 
+## Link Vídeo demonstrativo:
+- https://youtu.be/_yrzXCuMJBE
+
+## Desenvolvedores
+- Guilherme alves Da Silva
+- Igor Silva
+
 ## Conceitos aplicados
 
 - **Criptografia simétrica (AES-256-CBC)** — cifra o conteúdo das mensagens.

@@ -5,7 +5,7 @@ Aplicativo de mensagens em rede que demonstra, na prática, criptografia híbrid
 (RSA + AES), autenticação com hash de senhas e comunicação via sockets TCP em Python.
 
 ## Link Vídeo demonstrativo:
-- https://youtu.be/_yrzXCuMJBE
+- https://youtu.be/kBkXOYtLbiE
 
 ## Desenvolvedores
 - Guilherme alves Da Silva
